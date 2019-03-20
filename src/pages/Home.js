@@ -1,6 +1,6 @@
 export default function Home(){
     return `
-      <img src="https://media.licdn.com/dms/image/C4D03AQG_QkRQrJDGYw/profile-displayphoto-shrink_200_200/0?e=1554940800&v=beta&t=kKqMw574ajY8nzCWJnMHd-G3bt8o177N90CH_NLdtwk"
+      <img src="https://pbs.twimg.com/profile_images/378800000427609721/c50b7445958e266822842f82fc0d16b8_400x400.jpeg"
         alt="my face">
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit vel officiis praesentium cupiditate temporibus
