@@ -7,7 +7,7 @@ export default function Contact(){
       <label for="lastname">Last Name:</label>
       <input type="text" name="lastname" required>
 
-      <label for="Whats is this regarding">Service Requested</label>
+      <label for="Whats is this regarding">Services Requested:</label>
       <input type="text" name="Service Requested" required>
 
       <label for="email">Email:</label>
