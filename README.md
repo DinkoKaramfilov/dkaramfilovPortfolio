@@ -1,9 +1,9 @@
-#Dinko's Savvy Coder Website
+#Dinko's Website
 
 
 ![my face](https://pbs.twimg.com/profile_images/378800000427609721/c50b7445958e266822842f82fc0d16b8_400x400.jpeg)
 
-I'm a web development plebian, working on a project for savvy coders, in order to showcase what i can do!
+I'm a web development plebian, working on a project for savvy coders, in order to showcase what i can doi
 
 1. [Twitter](https://twitter.com/14psigli)
 2. [GitHub](https://github.com/NastygLi)
