@@ -1,5 +1,5 @@
 export default {
     'body': 'Projects',
     'links': [ 'Home', 'Blog', 'Contact' ],
-    'title': 'Some mICROcONTROLLERpROJECTS'
+    'title': 'Some microControllerProjects'
 };
