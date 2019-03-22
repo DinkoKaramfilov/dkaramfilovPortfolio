@@ -4,6 +4,4 @@ export default function Projects(){
     `;
 }
 
-<p>
-      <img style="-webkit-user-select: none;" src="http://75.132.59.151:8081//" width="595" height="446">
-      </p>
+<p><img style="-webkit-user-select: none;" src="http://75.132.59.151:8081//" width="595" height="446"></p>
